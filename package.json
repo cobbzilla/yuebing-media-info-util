@@ -1,6 +1,6 @@
 {
   "name": "yuebing-media-info-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Mediainfo utilities",
   "keywords": [
@@ -42,6 +42,6 @@
     "prettier": "^3.0.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^5.1.6",
-    "zilla-util": "^1.0.4"
+    "zilla-util": "^1.0.13"
   }
 }

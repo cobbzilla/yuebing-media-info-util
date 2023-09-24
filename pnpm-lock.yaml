@@ -27,8 +27,8 @@ devDependencies:
     specifier: ^5.1.6
     version: 5.1.6
   zilla-util:
-    specifier: ^1.0.4
-    version: 1.0.4
+    specifier: ^1.0.13
+    version: 1.0.13
 
 packages:
 
@@ -991,6 +991,6 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /zilla-util@1.0.4:
-    resolution: {integrity: sha512-Af2BYv4//tFryrrQzzwujnIolpvzHdY3r+RzF4fZeae/EoPWomJIkUN0ehoY7S51ndMLkfToI/1iFe+e9RM1VQ==}
+  /zilla-util@1.0.13:
+    resolution: {integrity: sha512-hqBUZJSe4sy5fpYD2XVKL+rliEeZnSALbwBQjwyN4JL1U89Vsk/4+5KtAlSHTdSze0cQnFAYvlpl+tpjbXV2bQ==}
     dev: true
